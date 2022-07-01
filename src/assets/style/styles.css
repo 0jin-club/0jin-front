@@ -9,6 +9,10 @@ html {
     font-size: 10px;
 }
 
+body {
+    overflow: hidden;
+}
+
 .wrapper {
     position: fixed;
     top: 0;
