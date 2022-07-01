@@ -1,22 +1,15 @@
 <template>
-  <div class="container2">
-    <HeaderItem/>
-    <transition>
-      <router-view/>
-    </transition>
-  </div>
+  <router-view/>
 </template>
 
 <script>
-import HeaderItem from './components/HeaderItem.vue'
 
 export default {
   components: {
-    HeaderItem
   }
 }
 </script>
 
 <style>
-@import './assets/style.css';
+@import '@/assets/style/styles.css';
 </style>
