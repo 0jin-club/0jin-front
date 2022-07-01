@@ -34,7 +34,7 @@
                 <p class="description">L : SEOUL, REPUBLIC OF KOREA</p>
                 <div class="description_under">
                     <p class="description">T : 010.3126.4485</p>
-                    <p class="description">M : 0jin@khjco.de</p>
+                    <p class="description">M : 0jin@sunrin.hs.kr</p>
                 </div>
             </div>
         </footer>
