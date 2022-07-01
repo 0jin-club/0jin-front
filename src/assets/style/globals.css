@@ -1,0 +1,62 @@
+/*
+  - color: 'https://ridi.design/colors'
+  < KHJcode © 2021 >
+*/
+
+:root {
+    --color-text-5: #f2f4f5;
+    --color-text-10: #e6e8eb;
+    --color-text-20: #d1d5d9;
+    --color-text-30: #b8bfc4;
+    --color-text-40: #9ea7ad;
+    --color-text-50: #808991;
+    --color-text-60: #636c73;
+    --color-text-70: #525a61;
+    --color-text-80: #40474d;
+    --color-text-90: #303538;
+    --color-text-100: #212529;
+
+    --color-warn-5: #fce8e6;
+    --color-warn-10: #fabab3;
+    --color-warn-20: #f5948a;
+    --color-warn-30: #ed6d5e;
+    --color-warn-40: #eb5847;
+    --color-warn-50: #e64937;
+    --color-warn-60: #d93826;
+    --color-warn-70: #c93221;
+    --color-warn-80: #ba2c1c;
+    --color-warn-90: #ab2617;
+    --color-warn-100: #942114;
+
+    --color-good-5: #f1faeb;
+    --color-good-10: #ddf2cc;
+    --color-good-20: #b2e08f;
+    --color-good-30: #7bcf3b;
+    --color-good-40: #5abf0d;
+    --color-good-50: #4fb303;
+    --color-good-60: #469e03;
+    --color-good-70: #409103;
+    --color-good-80: #398003;
+    --color-good-90: #2c6600;
+    --color-good-100: #214d00;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+input,
+button,
+textarea {
+    outline: none;
+}
