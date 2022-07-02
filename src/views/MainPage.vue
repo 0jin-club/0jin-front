@@ -18,13 +18,13 @@
             <nav class="navigation">
                 <ul class="link_list">
                     <li class="link_item">
-                        <a class="link" href="#">BLOG</a>
+                        <a class="link" href="https://yj-sunrin.notion.site/af6819682af24f3f94cbc9f476085de4" target="_blank">INTRO</a>
                     </li>
                     <li class="link_item">
-                        <a class="link" href="#">DATA</a>
+                        <a class="link" href="https://yj-sunrin.notion.site/aff00052aab445dba8353447ca5d0c6a" target="_blank">ACTIVITY</a>
                     </li>
                     <li class="link_item">
-                        <a class="link" href="#">CONTACT</a>
+                        <a class="link" href="#">RECRUIT</a>
                     </li>
                 </ul>
             </nav>
