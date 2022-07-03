@@ -98,7 +98,7 @@ body {
 }
 
 .link_section .navigation .link_list .link_item:active>.link {
-    transform: translate(0, -2px);
+    transform: translate(0, 2px);
 }
 
 .footer {
