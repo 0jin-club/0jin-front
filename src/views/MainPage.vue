@@ -17,15 +17,15 @@
         <section class="link_section">
             <nav class="navigation">
                 <ul class="link_list">
-                    <li class="link_item">
-                        <a class="link" href="https://yj-sunrin.notion.site/af6819682af24f3f94cbc9f476085de4" target="_blank">INTRO</a>
-                    </li>
-                    <li class="link_item">
-                        <a class="link" href="https://yj-sunrin.notion.site/aff00052aab445dba8353447ca5d0c6a" target="_blank">ACTIVITY</a>
-                    </li>
-                    <li class="link_item">
-                        <a class="link" href="#">RECRUIT</a>
-                    </li>
+                    <a class="link_item" href="https://yj-sunrin.notion.site/af6819682af24f3f94cbc9f476085de4" target="_blank">
+                        <li class="link">INTRO</li>
+                    </a>
+                    <a class="link_item" href="https://yj-sunrin.notion.site/aff00052aab445dba8353447ca5d0c6a" target="_blank">
+                        <li class="link">ACTIVITY</li>
+                    </a>
+                    <a class="link_item" href="#">
+                        <li class="link">RECRUIT</li>
+                    </a>
                 </ul>
             </nav>
         </section>
